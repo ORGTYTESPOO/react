@@ -1,5 +1,5 @@
 # React
-## Get started with React
+## Get Started with React
 Install Node.js and npm  
 React home page is : https://facebook.github.io/react/  and some documentation can be found at  
 https://github.com/Kaltsoon/react-nodejs-projektit-k17/wiki/Reactin-resurssit in Finnish  and official documentation at
@@ -9,8 +9,8 @@ https://facebook.github.io/react/docs/introducing-jsx.html  .
 'mkdir myreact'  
 'cd myreact'  
 'npm install -g create-react-app'  
-## Start a new React project  
+## Start a New React Project  
 'create-react-app myapp'  
-This will make the project directory myapp and folders below it.  To test template application type:  
+This will make the project directory "myapp" and needed folders and files below it.  To test template application type:  
 'npm start'  
 This will start browser and show tempplate start page with React logo.  
