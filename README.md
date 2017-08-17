@@ -5,6 +5,8 @@ React home page is : https://facebook.github.io/react/  and some documentation c
 https://github.com/Kaltsoon/react-nodejs-projektit-k17/wiki/Reactin-resurssit in Finnish  and official documentation at
 https://facebook.github.io/react/docs/hello-world.html and 
 https://facebook.github.io/react/docs/introducing-jsx.html  .  
+Thenewboston:
+https://www.youtube.com/watch?v=2NLgQMs2hOw  
 ## Add a Directory and Get React
 'mkdir myreact'  
 'cd myreact'  
